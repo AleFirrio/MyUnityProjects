@@ -58,3 +58,11 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+FirstProject/firstProject/Library/
+FirstProject/firstProject/Logs/
+FirstProject/firstProject/ProjectSettings/
+FirstProject/firstProject/UserSettings/EditorUserSettings.asset
+FirstProject/firstProject/.vsconfig
+FirstProject/firstProject/UserSettings/
+FirstProject/firstProject/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache
+FirstProject/firstProject/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
